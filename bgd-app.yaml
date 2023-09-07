@@ -12,3 +12,5 @@ spec:
     repoURL: https://github.com/richinex/bgd.git
     path: resources
     targetRevision: master
+  syncPolicy:
+    automated: {}
